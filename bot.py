@@ -3,7 +3,7 @@ from telegram.ext import Updater, CommandHandler, CallbackQueryHandler, MessageH
 import db
 import datetime
 
-TOKEN = '6844983461:AAHxya7agQyw0zi1r-bA0U-wOG2c336APqg'
+TOKEN = 'hide'
 
 # Разрешенные Telegram ID для доступа к команде /admin
 allowed_admins = [897335890, 9876543210]
